@@ -57,7 +57,7 @@ python main.py
 
 ## 🧠 Author
 
-Developed by [Your Name]
+Developed by Amirreza Khiabani
 
 ## 📄 License
 
