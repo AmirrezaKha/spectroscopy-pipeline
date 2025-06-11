@@ -23,7 +23,7 @@ Spectroscopy-Pipeline/
 ### 1. Clone the Repository
 
 ```bash
-git remote add origin https://github.com/AmirrezaKha/spectroscopy-pipeline.git
+git clone https://github.com/AmirrezaKha/spectroscopy-pipeline
 cd spectroscopy-pipeline
 ```
 
